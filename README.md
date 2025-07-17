@@ -1,4 +1,6 @@
 ## Hi there 👋
+Language:
+
 I'm good at C and ASM(x86_64 & Ring3 & SIMD only). 
 
 I can use C++.
@@ -8,6 +10,22 @@ I'm learning C# and CUDA library now.
 I'm learning Verilog now.
 
 I'm learning ASM(x86_64 Ring0, aarch64 and RISC-V) now.
+
+IDE & Dev Tools:
+
+I use Visual Studio for C/C++/C# dev.
+
+I use icx and Clang as C/C++ compiler. Not cl.exe(MSVC).
+
+I use masm64 for ASM dev.
+
+I use Intel Vtune for performance analyzer.
+
+System:
+
+I mainly use Windows.
+
+I can use Linux, But not often.
 
 <!--
 **copper187/copper187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
