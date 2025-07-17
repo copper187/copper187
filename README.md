@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+I'm good at C and ASM(x86_64 & Ring3 & SIMD only). 
+I can use C++.
+I'm learning C# and CUDA library now.
+I'm learning Verilog now.
+I'm learning ASM(x86_64 Ring0, aarch64 and RISC-V) now.
 <!--
 **copper187/copper187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
