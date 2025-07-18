@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copper187&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+This Language usage chart powered by https://github.com/anuraghazra/github-readme-stats. Click the chart for more information. 
+
 Language:
 
 I'm good at C and ASM(x86_64 & Ring3 & SIMD only). 
