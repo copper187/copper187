@@ -6,7 +6,7 @@ This Languages usage chart powered by https://github.com/anuraghazra/github-read
 
 Language:
 
-I'm good at C and ASM(x86_64 & Ring3 & SIMD only). 
+I'm good at C and ASM(x86_64 Ring3 & x86_64 SIMD only). 
 
 I can use C++.
 
