@@ -20,15 +20,31 @@ IDE & Dev Tools:
 
 I use Visual Studio for C/C++/C# dev.
 
+(14.Nov.2025 update: Visual Studio 2022+2026 mixed.)
+
+<br>
+
 I use icx and Clang as C/C++ compiler. Not cl.exe(MSVC).
+
+(14.Nov.2025 update: icx 2025.3.1 + clang-cl 20 & 21 mixed.)
+
+<br>
 
 I use masm64 for ASM dev.
 
 I use Intel Vtune for performance analyzer.
 
+(14.Nov.2025 update: Intel Vtune 2025.7)
+
+<br>
+
 System:
 
 I mainly use Windows.
+
+(14.Nov.2025 update: Windows 11 24H2)
+
+<br>
 
 I can use Linux, But not often.
 
