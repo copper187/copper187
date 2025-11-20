@@ -32,7 +32,9 @@ I use icx and Clang as C/C++ compiler. Not cl.exe(MSVC).
 
 I use masm64 for ASM dev.
 
-I use CUDA 13 (nvcc 13.0.88).
+I use CUDA 13.
+
+(20.Nov.2025 update: nvcc 13.0.88).
 
 <br>
 
