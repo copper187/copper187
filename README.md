@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=copper187&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 
-This Languages usage chart powered by https://github.com/anuraghazra/github-readme-stats. Click the chart or the link for more information. 
+This Languages usage chart powered by https://github.com/pranesh-2005/github-readme-stats-fast. Click the chart or the link for more information. 
 
 Language:
 
