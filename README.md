@@ -27,7 +27,7 @@ I use Visual Studio for C/C++/C# dev.
 
 I use icx and Clang as C/C++ compiler. Not cl.exe(MSVC).
 
-(14.Nov.2025 update: icx 2025.3.1 + clang-cl 20 & 21 mixed.)
+(23.Feb.2026 update: icx 2025.3.2 + clang-cl 20 & 21 mixed.)
 
 <br>
 
